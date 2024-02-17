@@ -6,10 +6,7 @@
 </header>
 
 <section>
-  I am currently studying computer science and I have a passion for front-end development. I love designing UI's and see my designs come to life in my websites.
-  I also love gaming and would love to one day get into the gaming industry, I love to play games like Rainbow Six Siege, Assasins Creed, Pokemon, Sims, and much more. 
-  I started out on my PS2 at the age of 3 playing games like Crash Bandicoot and Scoobydoo, my whole life I have loved gaming and when I was 15 I finally got to build my own gaming PC.
-  These are just a few facts about me:
+ 
   
 
 </section>
