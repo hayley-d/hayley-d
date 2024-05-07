@@ -9,10 +9,6 @@ I am a computer science student working part-time designing and managing website
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hayley-d&theme=dark&hide_border=true)<br/>
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hayley-d&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=hayley-d&icon=0&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
