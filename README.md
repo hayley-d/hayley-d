@@ -4,6 +4,8 @@
 
 <h3 align="center">Computer Science Student</h3>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hayley-d&show_icons=true&locale=en&layout=compact" alt="hayley-d" /></p>
+
 ###
 
 <div align="left">
