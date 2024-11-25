@@ -5,8 +5,10 @@
 <!--<h3 align="center">Computer Science Student</h3>-->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hayley-d&show_icons=true&theme=radical" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayley-d&layout=compact&theme=radical&show_icons=true" height="150" alt="languages graph"  />
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=hayley-d&show_icons=true&theme=radical" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayley-d&layout=compact&theme=radical&show_icons=true" height="150" alt="languages graph"  />-->
+   <img src="https://github-readme-stats.vercel.app/api?username=hayley-d&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hayley-d&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 
@@ -42,7 +44,8 @@
 ###
 
 <div align="center">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=hayley-d&theme=redical"/>
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=hayley-d&theme=material-palenight"/>
+  <!--<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=hayley-d&theme=redical"/>-->
 </div>
 
 ###
